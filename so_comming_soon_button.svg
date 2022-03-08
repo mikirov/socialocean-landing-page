@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="222px" height="56px" viewBox="0 0 222 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 2</title>
+    <defs>
+        <linearGradient x1="100%" y1="48.8196991%" x2="0%" y2="52.1322619%" id="linearGradient-1">
+            <stop stop-color="#FC5899" offset="0%"></stop>
+            <stop stop-color="#FBBB5D" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Splashscreen-Pre-Launch" transform="translate(-97.000000, -719.000000)">
+            <g id="Group-2" transform="translate(98.000000, 720.000000)">
+                <rect id="Rectangle-Copy-15" stroke="url(#linearGradient-1)" stroke-width="0.5" fill="url(#linearGradient-1)" x="0" y="0" width="220" height="54" rx="5"></rect>
+                <text id="Coming-soon" font-family="SFProText-Medium, SF Pro Text" font-size="18" font-weight="400" fill="#FFFFFF">
+                    <tspan x="55.1655273" y="34">Coming soon</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
