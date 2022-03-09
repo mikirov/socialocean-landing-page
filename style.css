@@ -2,7 +2,7 @@
 @font-face {
     font-family: SF Pro Thin;
     src: url("FontsFree-Net-SFProDisplay-Thin.ttf");
-    font-weight: bold;
+    font-weight: bold !important;
 }
 
 @font-face {
@@ -22,7 +22,7 @@ body {
 
 #Coming-soon
 {
-    font-family: SF Pro Medium;
+    font-family: 'SF Pro Medium';
 }
 
 @media only screen and (max-width: 768px) {
@@ -43,7 +43,7 @@ body {
 
     .text
     {
-        font-family: SF Pro Thin , serif;
+        font-family: 'SF Pro Thin';
         font-size: 30px;
         font-weight: bold;
         color:black;
