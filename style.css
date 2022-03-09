@@ -93,7 +93,13 @@ body {
 
     .button
     {
-        margin-left: 22vw;
+        margin-left: auto;
+        margin-right: auto;
+        position: absolute;
+        right: 0;
+        left: 0;
+        /*border-radius: 100px;*/
+        max-width: 200px;
     }
 
     body
