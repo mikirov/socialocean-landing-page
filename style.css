@@ -51,6 +51,24 @@ body {
     text-decoration: none;
 }
 
+.text
+{
+    font-family: SF Pro Thin , serif;
+    font-size: 26px;
+    color: black;
+    position: absolute;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30vh;
+    margin-bottom: 0;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    max-width: 300px;
+    max-height: 200px;
+}
+
 @media only screen and (max-width: 768px) {
     .logo
     {
@@ -67,37 +85,14 @@ body {
         max-width: 84.6vw;
     }
 
-    .text
-    {
-        font-family: 'SF Pro Thin';
-        font-size: 26px;
-        font-weight: bold;
-        color:black;
-        text-align: left;
-        position: absolute;
-
-        line-height: 150%;
-
-        margin-left: 13vw;
-        margin-right: 27.7vw;
-        margin-top: 28.6vh;
-        margin-bottom: 57.5vh;
-
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-
-        width: 170px;
-        height: 123px;
-    }
 
     .coming-soon-button
     {
 
         position: absolute;
-        /*margin-left: 30vw;*/
         margin-top: 80.3vh;
+        margin-left: auto;
+        margin-right: auto;
         left: 0;
         right: 0;
         top: 0;
@@ -140,49 +135,26 @@ body {
     .logo
     {
         position: absolute;
-
         margin-top: 15vh;
-        margin-left: 15vw;
-
-        /*height: 57px;*/
-
+        margin-left: auto;
+        /* height: 57px; */
         top: 0;
         bottom: 0;
         left: 0;
         right: 0;
+        margin-right: auto;
     }
 
-    .text
-    {
-        font-family: SF Pro Thin , serif;
-        font-size: 26px;
-        color:black;
-        text-align: left;
-        position: absolute;
-
-        line-height: 150%;
-
-        margin-left: 15vw;
-        margin-top: 40vh;
-
-        top: 0;
-        bottom: 0;
-        left: 0;
-        right: 0;
-
-        width: 267px;
-        height: 123px;
-    }
 
     .coming-soon-button
     {
         position: absolute;
         font-size: 18px;
         border-radius: 64px;
-        /*TODO: get SFProText-Med*/
         width: 220px;
         height: 54px;
-        margin-left: 15vw;
+        margin-left: auto;
+        margin-right: auto;
         margin-top: 80.3vh;
         left: 0;
         right: 0;
